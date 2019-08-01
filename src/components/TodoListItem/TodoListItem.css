@@ -1,0 +1,17 @@
+.todo-list-item button {
+  width: 30px;
+  height: 30px;
+  margin: 11px 2px;
+}
+.todo-list-item {
+  font-size: 1.3em;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.important {
+  color: steelblue;
+  font-weight: bold;
+}

@@ -1,0 +1,11 @@
+.todo-list .list-group-item {
+    padding: .25em .75em;
+    line-height: 50px;
+
+}
+
+.list-group .todo-list {
+    display: block;
+    width: 320px;
+}
+
